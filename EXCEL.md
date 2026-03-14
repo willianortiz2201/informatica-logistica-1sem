@@ -1,2 +1,2 @@
 # Excel
-## Aula de Excel sobre Dados abertos e criação de gráficos e tabelas
+## Aula de Excel sobre Dados abertos, gráficos e tabelas
