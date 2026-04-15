@@ -1,4 +1,4 @@
-# Mini Curso — Python Fundamental 1
+# Curso — Python Fundamental 1
 
 ### Sobre o curso
 
