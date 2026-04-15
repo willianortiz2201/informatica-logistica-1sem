@@ -9,7 +9,7 @@ Repositório com atividades desenvolvidas nas aulas de informática ao longo do 
 *  [Aula 01 - Apresentação com Canva](./aula-01-apresentacao-canva)
 *  [Aula 02 - Tabela no Excel](./aula-02-tabela-excel)
 *  [Aula 03 - Gráfico no Excel](./aula-03-grafico-excel)
-*  [Aula 04 - Tabela Dinâmica](./aula-04-tabela-grafico-dinamico)
+*  [Aula 04 - Tabela Dinâmica](./aula-04-tabela-dinamica)
 *  [Aula 05 - Gráfico Dinâmico](./aula-05-grafico-dinamico)
 
 ---
