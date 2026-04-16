@@ -1,4 +1,4 @@
-# | Aula 02 - Tabela no Excel
+#  Aula 02 - Tabela no Excel
 
 Desenvolvimento de uma tabela no **Excel** para organização e análise de dados.
 
