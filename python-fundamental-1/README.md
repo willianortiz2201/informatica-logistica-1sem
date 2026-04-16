@@ -20,7 +20,26 @@ Ao final do módulo, foram realizados testes práticos utilizando a função `pr
 
 ---
 
-### Módulo 02
+### Módulo 02 — Dados e Operadores
+
+Estudo dos tipos de dados e utilização de operadores para realização de operações básicas.
+
+---
+
+#### Literais e Tipos de Dados
+
+Introdução aos diferentes tipos de dados em Python e seus valores literais.
+
+![Módulo 02.1](./imagens/modulo-2-01.png)
+
+---
+
+#### Expressões Matemáticas
+
+Aplicação de operadores para realizar cálculos e expressões matemáticas.
+
+![Módulo 02.2](./imagens/modulo-2-02.png)
+
 
 ### Módulo 03
 
