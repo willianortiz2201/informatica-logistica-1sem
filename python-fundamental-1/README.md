@@ -8,7 +8,7 @@ Curso introdutório de Python com foco nos fundamentos da programação e no des
 
 ## Conteúdo
 
-### ### Módulo 01 — Introdução à Programação e à Linguagem Python
+### Módulo 01 — Introdução à Programação e à Linguagem Python
 
 Introdução aos conceitos básicos de programação e à linguagem Python.
 
@@ -16,7 +16,7 @@ Uso inicial da função `print` para exibir informações.
 
 #### Exemplo de prática
 
-![Módulo 01](./imagens/modulo1.png)
+![Módulo 01](./imagens/modulo-1.png)
 
 ---
 
