@@ -1,4 +1,4 @@
-# | Aula 05 - Gráfico Dinâmico
+#  Aula 05 - Gráfico Dinâmico
 
 Criação de gráfico dinâmico utilizando novos dados.
 
