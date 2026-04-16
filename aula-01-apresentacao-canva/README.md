@@ -1,4 +1,4 @@
-# | Aula 01 - Apresentação com Canva
+#  Aula 01 - Apresentação com Canva
 
 Atividade em grupo utilizando o Canva para criação de slides de apresentação pessoal.
 
