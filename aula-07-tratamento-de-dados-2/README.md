@@ -10,7 +10,7 @@ Análise de dados abertos do estado de São Paulo sobre sinistros de trânsito r
 
 #### Total de sinistros em fevereiro de 2026
 
-Utilização de funções para contagem dos registros.
+Utilização da função `CONT.SE` para contagem dos registros.
 
 ![Análise 01](./imagens/aula7-1.png)
 
@@ -18,7 +18,7 @@ Utilização de funções para contagem dos registros.
 
 #### Tipo de sinistro mais comum
 
-Identificação do tipo com maior ocorrência.
+Aplicação da função `CONT.SE` para identificar o tipo com maior ocorrência.
 
 ![Análise 02](./imagens/aula7-2.png)
 
@@ -26,7 +26,7 @@ Identificação do tipo com maior ocorrência.
 
 #### Período com mais acidentes
 
-Análise dos horários com maior incidência de sinistros.
+Uso da função `CONT.SE` para análise dos horários com maior incidência.
 
 ![Análise 03](./imagens/aula7-3.png)
 
@@ -34,7 +34,7 @@ Análise dos horários com maior incidência de sinistros.
 
 #### Dia da semana mais crítico
 
-Verificação do dia com maior número de ocorrências.
+Utilização da função `CONT.SE` para identificar o dia com maior número de ocorrências.
 
 ![Análise 04](./imagens/aula7-4.png)
 
@@ -42,7 +42,7 @@ Verificação do dia com maior número de ocorrências.
 
 #### Quantidade de sinistros fatais e não fatais
 
-Comparação entre ocorrências fatais e não fatais.
+Aplicação da função `CONT.SE` para comparação entre ocorrências.
 
 ![Análise 05](./imagens/aula7-5.png)
 
