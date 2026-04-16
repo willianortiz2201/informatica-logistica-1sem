@@ -1,4 +1,4 @@
-# | Aula 03 - Gráfico no Excel
+#  Aula 03 - Gráfico no Excel
 
 Criação de gráfico de barras utilizando os dados da tabela da aula anterior.
 
